@@ -26,6 +26,20 @@ A collection of developer resources for building spectacular web applications
 * jasmine
 * mocha
 
+## Utilities
+
+* jQuery
+* underscore
+* lodash
+
+
+## Databases
+
+* PouchDB
+* IndexedDB
+* WebSQL
+* localStorage
+
 
 # CSS
 
@@ -42,7 +56,9 @@ A collection of developer resources for building spectacular web applications
 
 # HTML5
 
-* markup resources?
+markup resources?
+
+* http://html5boilerplate.com/
 
 ## Canvas
 
@@ -55,6 +71,28 @@ A collection of developer resources for building spectacular web applications
 * three.js
 
 ### Webcam
+
+* that commercial framework / library
+* example webcam abstraction
+* QR Code decoding
+* Face detection
+
+# Data Visualization
+
+* D3
+* http://selection.datavisualization.ch/
+* Google Charts
+* http://fastly.github.io/epoch/
+* http://tenxer.github.io/xcharts/
+* http://www.highcharts.com/
+
+# Ruby
+
+* Books?
+* Rails
+* Sinatra
+* Unicorn
+* Puma
 
 
 # TCP
@@ -96,5 +134,20 @@ A collection of developer resources for building spectacular web applications
 * Adobe Free Fonds CDN
 * FontAwesome Color Logo/Icons http://codepen.io/elishaterada/pen/tGokD
 * Collection of UI Examples http://codepen.io/collection/CrgJj/
+* Browser Logos https://github.com/alrra/browser-logos
 
+
+# Project Management
+
+* Basecamp
+* Jira
+* Redmine
+
+# Collaboration
+
+* Github
+* Bitbucket
+* https://buildingintelligence.hipchat.com/home
+* Codepen
+* JSfiddle
 
