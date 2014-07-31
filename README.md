@@ -40,7 +40,22 @@ A collection of developer resources for building spectacular web applications
 
 * http://css-tricks.com/snippets/
 
-# HTML
+# HTML5
+
+* markup resources?
+
+## Canvas
+
+* Awesome canvas animation examples http://codepen.io/collection/npcEk/
+* D3
+
+## WebGL
+
+* paper.js
+* three.js
+
+### Webcam
+
 
 # TCP
 ## HTTP
@@ -71,4 +86,15 @@ A collection of developer resources for building spectacular web applications
 * nginx
 * puma
 * unicorn
+
+
+# Design
+
+* FontAwesome
+* Glyphicons
+* Google Fonts CDN
+* Adobe Free Fonds CDN
+* FontAwesome Color Logo/Icons http://codepen.io/elishaterada/pen/tGokD
+* Collection of UI Examples http://codepen.io/collection/CrgJj/
+
 
